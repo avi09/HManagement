@@ -1,0 +1,3 @@
+drop if exists HManagement;
+create database HManagement;
+use Hmanagement;
