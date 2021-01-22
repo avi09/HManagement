@@ -13,3 +13,6 @@ Database - MySQL
 ## Running  
 Start file index.jsp  
 Database will be auto initialized
+
+## Screenshot
+![alt text](1.png)
